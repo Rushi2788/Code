@@ -1,0 +1,7 @@
+CREATE TABLE `tbl_try1` (
+  `bikemaint_id` int(11) DEFAULT NULL,
+  `bikeid` int(11) DEFAULT NULL,
+  `start_date` date DEFAULT NULL,
+  `end_date` date DEFAULT NULL,
+  `condition1` varchar(50) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;

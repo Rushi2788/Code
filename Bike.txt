@@ -1,0 +1,6 @@
+CREATE TABLE `tbl_try` (
+  `bikeid` int(11) NOT NULL,
+  `bikename` varchar(255) DEFAULT NULL,
+  `remark` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`bikeid`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
