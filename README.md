@@ -1,2 +1,2 @@
 # Code
-Spring Boot Code For Email , SMS ,Custam Query ,Auto-Update , Excel Read , Excel Write , Pdf  And Much More.
+Spring Boot Code For Email , SMS ,Custom Query ,Auto-Update , Excel Read , Excel Write , Pdf  And Much More.
